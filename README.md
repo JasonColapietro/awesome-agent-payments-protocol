@@ -512,3 +512,7 @@ This list is released under [CC0 1.0](LICENSE) (Public Domain). No rights reserv
 ---
 
 **Keywords:** `ucp` `ap2` `agent-payments` `agentic-commerce` `a2a` `x402` `acp` `mpp` `machine-payments-protocol` `amp` `agentic-mobile-protocol` `trusted-agent-protocol` `agent-pay` `gemini-spark` `web-bot-auth` `mcp` `stablecoins` `verifiable-credentials` `agentcore` `erc-8183` `erc-8004` `google-cloud` `coinbase` `stripe` `openai` `aws` `tempo`
+
+### ox402-utils
+
+- [ox402-utils](https://deviant-oils-guardian-coating.trycloudflare.com) — 87 paid micro-utilities for AI agents via x402 (USDC on Base): research/web, PDF+OCR, speech (Kokoro neural TTS, Whisper STT), security recon, dev tools, media. Free trial: 10 calls/IP. MCP at /mcp402/.
